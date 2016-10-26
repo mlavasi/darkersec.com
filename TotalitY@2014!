@@ -1,0 +1,15 @@
+TotalitY@2014!
+
+dRMM - Wifi / WAPS - flattend and reconfiged - connected directly into the draytek 
+
+WAP 1 => LAN 3
+WAP 2 => LAN 5
+
+Bounced - tested 
+
+ Rosyln Name error on server - Key chain was picking automaticly trying to sign rosyln into the NAS with the wrong user name.. Login items was configured incorrectly. It has now been changed.
+
+ Ana Ferao - Unable to rename name files (Somtimes) sidebar shortcuts are acting up (i have mapped VIA afp to test)
+
+ Judith has been mapped VIA afp to test - siminlar issues as above 
+
