@@ -10,6 +10,23 @@
 /*==========================================================================
   General
   ========================================================================== */
+@media (max-width: 991px) {
+	.navbar-brand {
+		float: none;
+	}
+
+	#title {
+		text-align: center;
+	}
+
+	.nav.nav-pills {
+    	display: table;
+    	margin: 0 auto;
+    	float: none;
+	}
+}
+
+
 body {
 	font-family:'Open Sans', Arial, sans-serif;
 	font-size:14px;
